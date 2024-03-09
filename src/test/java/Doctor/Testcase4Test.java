@@ -14,4 +14,9 @@ public class Testcase4Test {
 	{
 		System.out.println("--execute test9---");
 	}
+	@Test
+	public void test10()
+	{
+		System.out.println("--execute test10---");
+	}
 }
