@@ -10,4 +10,9 @@ public class Testcase1Test
 	{
 		System.out.println("--executing testscript one---");
 	}
+	@Test
+	public void testii()
+	{
+		System.out.println("executing test script ");
+	}
 }
