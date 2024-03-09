@@ -9,4 +9,9 @@ public class Testcase4Test {
 	{
 		System.out.println("--execute test8---");
 	}
+	@Test
+	public void test9()
+	{
+		System.out.println("--execute test9---");
+	}
 }
